@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        3AM Deep Time
+tagline:      Unity, C#, Game Math, Algorithm
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Doorwhichisclosed
+  url:        https://github.com/doorwhichisclosed
 
 # Gems
 gems:
