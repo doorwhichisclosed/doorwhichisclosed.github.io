@@ -20,3 +20,4 @@ plugins: [jekyll-paginate]
 
 #Others
 markdown: kramdown
+asset_url: /assets
